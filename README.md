@@ -44,4 +44,6 @@ Your web application requires a database to include user’s personal informatio
 You are required to work on this assignment collaboratively in groups of 3. 
 I recommend that each group uses a distributed version com.repository (e.g., Git) to submit the WebApp. Inside your project, you should provide a diary documenting each team member's contribution.
 
+pippo.
+
 
